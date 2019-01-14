@@ -10,7 +10,7 @@ from scipy.cluster.vq import *
 # Загрузить классификатор,имена классов, скейлер, количество кластеров и словрь
 clf, classes_names, stdSlr, k, voc = joblib.load("bof.pkl")
 
-# Get the path of the testing set Получить путь набора тестирования
+# Получить путь набора тестирования
 parser = ap.ArgumentParser()
 group = parser.add_mutually_exclusive_group(required=True)
 group.add_argument("-t", "--testingSet", help="Path to testing Set")
@@ -35,8 +35,8 @@ else:
     image_paths = [args["image"]]
     
 # Создаем объекты извлечения и находим ключевые точки
-#fea_det = cv2.xfeatures2d.SIFT_create()
-fea_det = cv2.xfeatures2d.SURF_create()
+fea_det = cv2.xfeatures2d.SIFT_create()
+#fea_det = cv2.xfeatures2d.SURF_create()
 
 # Список дескрипторов
 des_list = []

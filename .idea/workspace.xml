@@ -2,7 +2,153 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="283d05a8-46c5-44f3-a52a-632ad3acc404" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/bagofwordswithopencv.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bagofwordswithopencv.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bof.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/bof.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/findFeatures.py" beforeDir="false" afterPath="$PROJECT_DIR$/findFeatures.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/getClass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (10).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (100).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (101).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (102).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (103).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (104).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (105).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (106).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (107).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (108).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (109).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (11).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (110).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (111).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (112).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (113).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (114).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (115).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (116).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (117).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (118).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (119).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (12).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (120).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (121).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (122).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (123).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (124).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (125).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (126).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (127).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (128).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (129).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (13).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (130).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (131).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (132).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (133).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (134).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (135).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (136).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (137).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (138).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (139).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (14).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (140).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (141).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (15).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (16).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (17).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (18).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (19).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (20).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (21).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (22).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (23).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (24).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (25).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (26).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (27).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (28).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (29).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (30).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (31).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (32).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (33).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (34).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (35).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (36).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (37).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (38).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (39).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (4).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (40).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (41).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (42).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (43).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (44).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (45).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (46).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (47).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (48).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (49).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (5).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (50).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (51).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (52).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (53).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (54).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (55).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (56).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (57).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (58).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (59).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (6).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (60).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (61).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (62).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (63).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (64).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (65).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (66).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (67).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (68).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (69).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (7).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (70).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (71).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (72).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (73).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (74).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (75).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (76).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (77).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (78).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (79).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (8).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (80).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (81).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (82).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (83).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (84).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (85).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (86).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (87).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (88).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (89).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (9).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (90).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (91).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (92).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (93).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (94).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (95).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (96).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (97).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (98).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test (99).jpeg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,11 +167,75 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-932671458">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="5" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/findFeatures.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="417">
+              <caret line="69" column="30" selection-start-line="69" selection-start-column="30" selection-end-line="69" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/getClass.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="774">
+              <caret line="81" column="25" selection-start-line="81" selection-start-column="25" selection-end-line="81" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/findFeatures.py" />
+        <option value="$PROJECT_DIR$/getClass.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -36,7 +246,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -47,16 +256,35 @@
             <path>
               <item name="bagofwordswithopencv" type="b2602c69:ProjectViewProjectNode" />
               <item name="bagofwordswithopencv" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bagofwordswithopencv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bagofwordswithopencv" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bagofwordswithopencv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bagofwordswithopencv" type="462c0819:PsiDirectoryNode" />
               <item name="train" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bagofwordswithopencv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bagofwordswithopencv" type="462c0819:PsiDirectoryNode" />
+              <item name="train" type="462c0819:PsiDirectoryNode" />
+              <item name="male" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/getClass.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -69,6 +297,75 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Python.classify">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="bagofwordswithopencv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\py360\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="training" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="classify" type="PythonConfigurationType" factoryName="Python">
+      <module name="bagofwordswithopencv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\py360\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getClass.py" />
+      <option name="PARAMETERS" value="-t test/ --visualize" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="training" type="PythonConfigurationType" factoryName="Python">
+      <module name="bagofwordswithopencv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\py360\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/findFeatures.py" />
+      <option name="PARAMETERS" value="-t train/" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.classify" />
+      <item itemvalue="Python.training" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -84,20 +381,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="260" y="20" width="1400" height="1000" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32949308" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.30911064" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -107,5 +404,27 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/findFeatures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="69" column="30" selection-start-line="69" selection-start-column="30" selection-end-line="69" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getClass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="81" column="25" selection-start-line="81" selection-start-column="25" selection-end-line="81" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
