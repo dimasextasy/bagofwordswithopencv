@@ -35,8 +35,8 @@ else:
     image_paths = [args["image"]]
     
 # Создаем объекты извлечения и находим ключевые точки
-fea_det = cv2.xfeatures2d.SIFT_create()
-#fea_det = cv2.xfeatures2d.SURF_create()
+#fea_det = cv2.xfeatures2d.SIFT_create()
+fea_det = cv2.xfeatures2d.SURF_create()
 
 # Список дескрипторов
 des_list = []
@@ -74,11 +74,14 @@ predictions = [classes_names[i] for i in clf.predict(test_features)]
 
 # Показывать результаты, если visualize = true
 if args["visualize"]:
+    result_file = open('surf.txt', "w", encoding='utf-8')
     for image_path, prediction in zip(image_paths, predictions):
         image = cv2.imread(image_path)
         cv2.namedWindow("Image", cv2.WINDOW_NORMAL)
         pt = (0, 3 * image.shape[0] // 4)
         cv2.putText(image, prediction, pt ,cv2.FONT_HERSHEY_SIMPLEX, 2, [0, 255, 0], 2)
-        print(prediction)
+        result_file.write(image_path[10:] + '->' + prediction + '\n')
+        cv2.imwrite('result/surf/' + image_path[10:-5] + '.png', image)
         cv2.imshow("Image", image)
-        cv2.waitKey(3000)
+        cv2.waitKey(100)
+    result_file.close()

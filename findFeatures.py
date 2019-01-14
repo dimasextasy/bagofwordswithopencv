@@ -30,8 +30,8 @@ for training_name in training_names:
     class_id+=1
 
 # Создание feature extraction и keypoint detector
-fea_det = cv2.xfeatures2d.SIFT_create()
-#fea_det = cv2.xfeatures2d.SURF_create()
+#fea_det = cv2.xfeatures2d.SIFT_create()
+fea_det = cv2.xfeatures2d.SURF_create()
 
 # Список, где хранятся все дескрипторы
 des_list = []
